@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(255, 213, 253);
+    margin: 20px;
+}
+
+header{
+    width: auto;
+    height: 150px;
+    border: black 2px solid;
+    text-align: right;
+}
+
+
+header>p{
+    font-size: 100px;
+    font-family: ;
+}
+
+#main_upper{
+    display: flex;
+
+}
+#left-container{
+    width: 50%;
+    border: black 2px solid;
+    
+}
+
+#right-container{
+    width: 50%;
+    border: black 2px solid;
+    padding-left: 20%;
+    padding-right: auto;
+}
+
+#main-body{
+    width: auto;
+    border: black 2px solid;
+
+
+}
+
